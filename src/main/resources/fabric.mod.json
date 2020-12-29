@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "sectionsign",
+  "id": "noborder",
   "version": "${version}",
 
-  "name": "Section Sign",
-  "description": "Enable typing section signs in input fields",
+  "name": "No Border",
+  "description": "Removes border-related mechanics",
   "authors": [
     "ZENITHSEEKER"
   ],
   "contact": {
-    "sources": "https://github.com/andrewathalye/section-sign"
+    "sources": "https://github.com/andrewathalye/noborder"
   },
 
   "license": "CC0-1.0",
@@ -20,7 +20,7 @@
     ]
   },
   "mixins": [
-    "sectionsign.mixins.json"
+    "noborder.mixins.json"
   ],
 
   "depends": {

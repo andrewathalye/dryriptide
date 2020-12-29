@@ -1,13 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "tk.zenithseeker.sectionsign.mixin",
+  "package": "tk.zenithseeker.noborder.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "SharedConstantsMixin",
-    "FormattingMixin"
+    "WorldBorderMixin"
   ],
   "injectors": {
     "defaultRequire": 1

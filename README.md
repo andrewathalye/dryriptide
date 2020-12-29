@@ -1,8 +1,10 @@
-# Fabric Example Mod
+# No Border
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Removes all effects from custom world borders and sets the world border to 60M wide client-side.
+Note: This is likely not allowed on non-anarchy servers. Use at your own risk.
+This has no effect on border damage, but allows (attempting) to place blocks and crossing the border directly.
 
 ## License
 
