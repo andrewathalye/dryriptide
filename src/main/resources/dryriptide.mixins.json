@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "tk.zenithseeker.noborder.mixin",
+  "package": "tk.zenithseeker.dryriptide.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "WorldBorderMixin"
+    "TridentItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1

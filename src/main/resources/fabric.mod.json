@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "noborder",
+  "id": "dryriptide",
   "version": "${version}",
 
-  "name": "No Border",
-  "description": "Removes border-related mechanics",
+  "name": "Dry Riptide",
+  "description": "Allows using riptide at any time",
   "authors": [
     "ZENITHSEEKER"
   ],
   "contact": {
-    "sources": "https://github.com/andrewathalye/noborder"
+    "sources": "https://github.com/andrewathalye/dryriptide"
   },
 
   "license": "CC0-1.0",
@@ -20,7 +20,7 @@
     ]
   },
   "mixins": [
-    "noborder.mixins.json"
+    "dryriptide.mixins.json"
   ],
 
   "depends": {
