@@ -1,10 +1,13 @@
-# No Border
+# Dry Riptide
 
 ## Description
 
-Removes all effects from custom world borders and sets the world border to 60M wide client-side.
-Note: This is likely not allowed on non-anarchy servers. Use at your own risk.
-This has no effect on border damage, but allows (attempting) to place blocks and crossing the border directly.
+Allows using Riptide without water or rain.
+
+## Warning
+
+Do _NOT_ use this on non-anarchy servers, please. The results are not what you would expect, but even on unmodified servers
+this can provide an unfair advantage.
 
 ## License
 
